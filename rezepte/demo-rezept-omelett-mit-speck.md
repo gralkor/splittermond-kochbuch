@@ -1,5 +1,7 @@
 # Omelett mit Speck und Wildpilzen
 
+*In Selenia sind Hühner als Haustiere sehr beliebt und dieses Omelett zaubert aus ein paar Eiern ein wunderbares Frühstück*
+
 ## Zutaten für 1 Person
 - 2 dicke Scheiben Speck
 - 6 Shiitakepilze (oder Champignons)
